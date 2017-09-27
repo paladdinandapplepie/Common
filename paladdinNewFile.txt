@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 This is ok
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+I changed IT!!!
+>>>>>>> applePie
+=======
+This is ok?
+>>>>>>> paladdin
+>>>>>>> 171ffc143232a4c430172c693b311a9db0d93dcc
