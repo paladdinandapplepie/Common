@@ -3,8 +3,5 @@ Nikita
 Nikita1234
 Egor2
 Egor3
-<<<<<<< HEAD
 textNew
-=======
 Egor4
->>>>>>> a726503d07720de17de670aca8def39ee748c203
