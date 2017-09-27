@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+This is ok
+<<<<<<< HEAD
+=======
+I changed IT!!!
+>>>>>>> applePie
+=======
 This is ok?
+<<<<<<< HEAD
 
 Yes it's okay
+=======
+>>>>>>> paladdin
+>>>>>>> master
