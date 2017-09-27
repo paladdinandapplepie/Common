@@ -1,5 +1,8 @@
 EGor
 Nikita
+<<<<<<< HEAD
 Nikita1234
 Egor2
 Egor3
+=======
+>>>>>>> 9381267f82c6ac830c66a40ada3490ff78ccbd70
